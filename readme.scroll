@@ -1,0 +1,28 @@
+// Welcome, humans!
+// buelon collects Elon Musk's company-wide emails as published by the press.
+// Every post links to the article that first reported the email; the framing
+// paragraphs and source links are ours, and the quoted email text matches the
+// published transcription.
+// Dates are the dates the emails were sent. A few are month-precise because the
+// exact send date was not reported; the first of the month is used for ordering.
+// To refresh: add an entry to archive.json and a body at originals/<slug>.scroll,
+// then run npm run import && npm run build && npm run check.
+title buelon — Archive
+description boo Elon Musk. made by @breckyunits
+permalink index.html
+canonicalUrl https://x.com/elonmusk
+buildHtml
+head.scroll
+
+container 1120px
+ id main
+ role main
+ addClass archive
+
+# All posts
+ id archive-heading
+
+BU_ARCHIVE
+clearStack
+homeFooter.scroll
+site.js

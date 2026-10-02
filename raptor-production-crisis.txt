@@ -1,0 +1,22 @@
+November 26, 2021
+The Raptor Production Crisis
+============================
+
+Sent to SpaceX employees on November 26, 2021, the Friday after Thanksgiving, after Musk learned how far Raptor engine production had fallen behind. The email warned that the company faced a "genuine risk of bankruptcy."
+
+Unfortunately, the Raptor production crisis is much worse than it seemed a few weeks ago. As we have dug into the issues following exiting prior senior management, they have unfortunately turned out to be far more severe than was reported. There is no way to sugarcoat this.
+
+I was going to take this weekend off, as my first weekend off in a long time, but instead I will be on the Raptor line all night and through the weekend.
+
+Unless you have critical family matters or cannot physically return to Hawthorne, we need all hands on deck to recover from what is, quite frankly, a disaster.
+
+The consequences for SpaceX if we can't get enough reliable Raptors made is that we then can't fly Starship, which means we then can't fly Starlink Satellite V2 (Falcon has neither the volume *nor* the mass to orbit needed for satellite V2). Satellite V1 by itself is financially weak, whereas V2 is strong.
+
+In addition, we are spooling up terminal production to several million units per year, which will consume massive capital, assuming that satellite V2 will be on orbit to handle the bandwidth demand. These terminals will be useless otherwise.
+
+What it comes down to is that we face genuine risk of bankruptcy if we cannot achieve a Starship flight rate of at least once every two weeks next year.
+
+Thanks,
+Elon
+
+Read the full email as published by The Verge.
