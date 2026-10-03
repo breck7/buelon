@@ -1,6 +1,6 @@
 title The Elon Emails
 description Flip through Elon Musk's company-wide emails as full-page facsimiles, newest first.
-permalink index.html
+permalink flipBook.html
 buildHtml
 metaTags
 
